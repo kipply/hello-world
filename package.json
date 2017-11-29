@@ -1,0 +1,22 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "NPM module that outputs \"Hello, World\" ",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kipply/hello-world.git"
+  },
+  "author": "Carol Chen",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/kipply/hello-world/issues"
+  },
+  "homepage": "https://github.com/kipply/hello-world#readme",
+  "devDependencies": {
+    "typescript": "^2.6.2"
+  }
+}
