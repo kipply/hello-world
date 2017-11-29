@@ -1,5 +1,5 @@
 {
-  "name": "hello-world",
+  "name": "hello-world-special",
   "version": "1.0.0",
   "description": "NPM module that outputs \"Hello, World\" ",
   "main": "index.js",
